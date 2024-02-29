@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="6"
+  SkinType="Component"
+  Comment="HTML5 Favicon skin"
+  ComponentType="Favicon">
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="favicon-32x32.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gogzMEGJIurqr4AKcbiIHcnhnXnZF4COS6pEZ5pvr4MWkA2BwNjeyYDC0gJEEsxgADzAkYGZrAIUGwBE1xWYQEzgg1SuKYt6TMDA5OPp4tjSATn2+lnvUUKJY7bW7+O3vVu3ZKZqVJtLetC2Eon2rDI7skOSRB4uPKdY6KOI8tF3V/iTYu8Y5X36FxcuEIg+IxZ95lrV6N0N5vm/razbtt47ejhN6lyZQnPZj7/XhM/LzWtjvGR5fLtvd6NDM8bqmTjXLSmP762N3AdW9X7J2ysdUe5rzjxTNzxZo2m/p7nJ7cmWjt9OvWtvnOVOZMr7/yG9yB4YJnsCp3WWbrS8xOtVz2syEn+Vz/TptF4bsFm9qishGhRnrLDkU91vEISdx7acYFV3fpOTqTAq2tZX2rSM4+ebT+tGMLWV/Tr6e8bP+8HJolf1eryOjsxLWM1a7Dh16uqJf8MfNIWbGZkk9ux4LbzKs7DlzMtVuzhPKFzcLJmxoW9zzjO1DQH/1ZYc297+8MbchWfWXeVHTzq/iHx4NKJ5QsCz8bVNL1T86hvXyMikbFf6o5880TJiBNOa/j4OD4cS9a4eupJusXe+6y/f3Ife74gZhLPiSnsS79FMc1a9MGI1Tl/q1/eUvHrtieEDX63hQasdD1v57TEyTdUZFJre5mT/2oZwccrPokyWdxaFPWXPW2p1fI4YSafVxGCnXeZjEt7BSt0ndxWeW2t3n6Is/fMgc2rX7M0bdxXceeZ0cJDCz0FJ0btlpu+a2Ok+ItEIbHpih/vyV7f8mbu5ODFmRV6z6Ou1vxrd1P6tOzX3T0nXta5WVpvL7zVsfb8pjuyF3fZC77Yvfr9JCW3OhbXI8fVH1iDYALfC92ALR6W27x1xfYksseXHhF+u3XNK+dFsS5fzL6r5FTX3d32fD+j29xlxzbrlQSC0penq5/LOqeEJgBFsYxY4gIAAA==</Resource>
+    </Resources>
+  </Stylesheet>
+  <Master
+    Image="favicon-32x32.png" />
+  <Browser>
+    <SmallFavicon
+      Image="(generated)"
+      SizePx="16 px" />
+    <MediumFavicon
+      Image="(generated)"
+      SizePx="32 px" />
+    <LargeFavicon
+      Image="(none)"
+      SizePx="" />
+  </Browser>
+  <ShortcutIcon
+    Image="(generated)" />
+  <Touch>
+    <TouchIcon
+      Image="(none)"
+      SizePx="" />
+  </Touch>
+  <Windows>
+    <MicrosoftSmallTile
+      Image="(none)" />
+    <MicrosoftMediumTile
+      Image="(none)" />
+    <MicrosoftWideTile
+      Image="(none)" />
+    <MicrosoftLargeTile
+      Image="(none)" />
+  </Windows>
+  <Strings />
+</CatapultSkin>

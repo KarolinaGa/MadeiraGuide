@@ -1,0 +1,19 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Online & Print/Top Navigation and PDF/ */
+
+:root
+{
+	--Primary: #076685;
+	--Secondary: #CDE0E7;
+	--Dark: #45494C;
+	--Darkest: #000000;
+	--Light: #DADEE1;
+	--Lightest: #FFFFFF;
+	--Medium: #A4AAAE;
+	--FontFamily: Arial, Avenir, Myriad;
+	--HeroImage: url('../Images/IMG_4718-2.jpeg');
+	--LogoImage: url('../Images/LOGOMadeira-2.jpg');
+	--LogoImagePrint: url('../Images/LOGOMadeira-2.jpg');
+}
+

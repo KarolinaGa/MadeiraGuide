@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="side-content">
+        </div>
+        <MadCap:breadcrumbsProxy />
+        <div class="topic-layout">
+            <div class="side-content">&#160;</div>
+            <MadCap:bodyProxy />
+        </div>
+    </body>
+</html>
